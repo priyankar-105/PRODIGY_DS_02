@@ -1,3 +1,4 @@
+#Prodigy InfoTech Task 3
 data<-read.csv("C:/Users/priya/Downloads/titanic_train.csv")#load data
 #structure of the data
 str(data)
